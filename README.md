@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://your-banner-url.com/banner.png" alt="banner" align="center" />
+<img src="https://raw.githubusercontent.com/Abdullah0604/Abdullah0604/refs/heads/main/github-banner.png" alt="banner" align="center" />
 
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
 <h3 align="center">Junior Frontend Developer | MERN Stack Enthusiast</h3>
