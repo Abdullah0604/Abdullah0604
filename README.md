@@ -1,22 +1,22 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Abdullah0604/Abdullah0604/refs/heads/main/github-banner.png" alt="banner" align="center" />
-
 <h1>Hi, I'm Mohammed Abdullah 👋</h1>
+<img src="https://raw.githubusercontent.com/Abdullah0604/Abdullah0604/refs/heads/main/github-banner.png" alt="banner" align="center" />
 <h3>Junior Frontend Developer | MERN Stack Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm [Your Name] from [Your City, Country].  
-I’m a passionate **Frontend Developer** currently exploring modern web technologies and building real-world projects.
+A code-driven problem solver from Bangladesh 🇧🇩, passionate about building beautiful and functional web applications.
 
-- 🔭 I’m currently working on a **Marathon Management System** using React.js and MongoDB.
-- 🌱 I’m exploring **Next.js** and performance optimization techniques.
-- 🛠️ Love turning ideas into web applications that work beautifully.
-- 🤝 Open for collaboration on interesting and impactful projects.
+- 🔭 Currently crafting a **Marathon Management System** using React.js and MongoDB.
+- 🌱 Deep diving into **Next.js**, performance tweaks, and scalable UI architecture.
+- 💡 Always up for creative challenges and tech discussions.
+- 🤝 Open to collaborating on impactful and innovative projects.
 
 ---
+
+
 
 ## 🚀 Skills & Technologies
 
