@@ -55,6 +55,20 @@ A code-driven problem solver from Bangladesh 🇧🇩, passionate about building
 </p>
 
 ---
+---
 
+# 💫 About Me:
+A code-driven problem solver from Bangladesh 🇧🇩, passionate about building beautiful and functional web applications.<br><br>🔭 Currently crafting a Marathon Management System using React.js and MongoDB.<br>🌱 Deep diving into Next.js, performance tweaks, and scalable UI architecture.<br>💡 Always up for creative challenges and tech discussions.<br>🤝 Open to collaborating on impactful and innovative projects.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mohammed Abdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohammed Abdullah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed Abdullah&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Mohammed Abdullah&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 ⭐️ Don't forget to star this repo if you found it useful!
 
