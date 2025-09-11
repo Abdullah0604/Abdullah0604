@@ -31,19 +31,19 @@ A code-driven problem solver from Bangladesh , passionate about building beautif
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
 </p> -->
-<ol style="padding-left:0; margin:0; display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
-  <li style="list-style:none; margin:4px;">1. <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" /></li>
-  <li style="list-style:none; margin:4px;">2. <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" /></li>
-  <li style="list-style:none; margin:4px;">3. <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></li>
-  <li style="list-style:none; margin:4px;">4. <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" /></li>
-  <li style="list-style:none; margin:4px;">5. <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /></li>
-  <li style="list-style:none; margin:4px;">6. <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" /></li>
-  <li style="list-style:none; margin:4px;">7. <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" /></li>
-  <li style="list-style:none; margin:4px;">8. <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" /></li>
-  <li style="list-style:none; margin:4px;">9. <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" /></li>
-  <li style="list-style:none; margin:4px;">10. <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" /></li>
-  <li style="list-style:none; margin:4px;">11. <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" /></li>
-</ol>
+
+ <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+ <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+   <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
+ <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" />
+
 
 
 ---
